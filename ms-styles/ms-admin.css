@@ -1,0 +1,38 @@
+﻿.ms-property-container{float:left;}
+.ms-comment{color:#CCC;font-style:italic;}
+.ms_more_info{ border: 1px solid #E6DB55; background-color: #FFFFE0; padding: 10px; margin: 10px 0; display:none; }
+.ms-section-title,
+.ms-chart-title{ font-size: 18px; font-weight: bold;margin:10px 0;}
+.ms-chart-legend{float:left; padding:10px; background:#FFFFFF; border: 1px solid #dfdfdf; }
+.ms-legend-color{height:16px;width:20px;float:left;margin-right:10px;}
+.ms-legend-text{float:left;clear:right;}
+.ms-paypal-data{ border: 1px solid #EEEEEE; padding: 0 10px 10px 10px; margin: 10px 0; overflow-x: auto;}
+#ms_layout_thumbnail img{ margin-top: 10px; }
+.music-store-error-mssg{ border: 1px solid #FF0000; color: #FF0000; text-align:center; width:100%; }
+.music-store-mssg{ border: 1px solid #E6DB55; background-color: #FFFFE0; text-align:center; width:100%; }
+#ms_ipn_video_tutorial{border: 1px solid #DDDDDD; background:white; padding:10px; position: fixed; top: 50%; left: 50%; width: 70%; transform: perspective(1px) translateY(-50%) translateX(-50%); z-index: 999999;}
+.ms-sales-report-actions input{width: 170px;text-align: center;margin-bottom: 5px !important;padding-left: 0 !important;padding-right: 0 !important;}
+.cp-blink-me {animation: cp_blinker 2s linear infinite;text-transform: uppercase;}
+@keyframes cp_blinker{50% {opacity: 0;}}
+[name="ms-store-settings-file"]{color: #0071a1;}
+[name="ms-store-settings-file"]::file-selector-button{
+	color: #0071a1;
+    border-color: #0071a1;
+    background: #f3f5f6;
+    vertical-align: top;
+	display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    margin: 0;
+    padding: 0 10px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+	margin-right:10px;
+}

@@ -1,0 +1,2369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: music-store\n"
+"POT-Creation-Date: 2024-08-18 23:53+0200\n"
+"PO-Revision-Date: 2024-08-18 23:53+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: CodePeople\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;gettext;gettext_noop;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ms-addons/affiliateroyale.addon.php:71
+msgid "Affiliate Royale Integration"
+msgstr "Affiliate Royale Integration"
+
+#: ms-addons/affiliateroyale.addon.php:73
+msgid ""
+"If the Affiliate Royale plugin is installed on the website, and you want "
+"integrate it with the Music Store, tick the checkbox:"
+msgstr ""
+"If the Affiliate Royale plugin is installed on the website, and you want "
+"integrate it with the Music Store, tick the checkbox:"
+
+#: ms-addons/affiliatesmanager.addon.php:57
+msgid "Affiliates Managers Integration"
+msgstr "Affiliates Managers Integration"
+
+#: ms-addons/affiliatesmanager.addon.php:59
+msgid ""
+"If the Affiliates Manager plugin is installed on the website, tick the "
+"checkbox to integrate it with the Music Store:"
+msgstr ""
+"If the Affiliates Manager plugin is installed on the website, tick the "
+"checkbox to integrate it with the Music Store:"
+
+#: ms-addons/base.addon.php:105
+msgid "Activate add on"
+msgstr ""
+
+#: ms-addons/base.addon.php:108 ms-addons/base.addon.php:110
+msgid "Install add on"
+msgstr ""
+
+#: ms-addons/mollie.addon.php:66 ms-addons/square.addon.php:91
+#: ms-core/ms-wizard.php:43
+msgid "Payment Gateway"
+msgstr "Payment Gateway"
+
+#: ms-addons/mollie.addon.php:70
+msgid "Enable Mollie?"
+msgstr ""
+
+#: ms-addons/mollie.addon.php:76 ms-addons/square.addon.php:101
+msgid "Label"
+msgstr ""
+
+#: ms-addons/mollie.addon.php:80
+msgid "API Key"
+msgstr ""
+
+#: ms-addons/mollie.addon.php:117
+msgid "Email address where to receive the download link"
+msgstr ""
+
+#: ms-addons/mollie.addon.php:118
+msgid "Required email"
+msgstr ""
+
+#: ms-addons/mollie.addon.php:122
+msgid "Go to Pay"
+msgstr ""
+
+#: ms-addons/mollie.addon.php:292 ms-addons/square.addon.php:288
+#, fuzzy
+#| msgid "List all products"
+msgid "Non-existent product"
+msgstr "List all products"
+
+#: ms-addons/mollie.addon.php:304 ms-addons/square.addon.php:300
+#, fuzzy
+#| msgid "The product is not valid"
+msgid "The product is not a song or collection"
+msgstr "The product is not valid"
+
+#: ms-addons/paypal.addon.php:38
+msgid "PayPal"
+msgstr "PayPal"
+
+#: ms-addons/square.addon.php:95
+msgid "Enable Square?"
+msgstr ""
+
+#: ms-addons/square.addon.php:105
+msgid "Location ID"
+msgstr ""
+
+#: ms-addons/square.addon.php:111
+msgid "Access Token"
+msgstr ""
+
+#: ms-addons/square.addon.php:117
+msgid "Square Mode"
+msgstr ""
+
+#: ms-addons/square.addon.php:122
+msgid "Production - real payments processed"
+msgstr ""
+
+#: ms-addons/square.addon.php:126
+msgid "SandBox - Square testing sandbox area"
+msgstr ""
+
+#: ms-addons/square.addon.php:479 ms-addons/square.addon.php:484
+msgid "Failed to process credit card. Error message"
+msgstr ""
+
+#: ms-addons/square.addon.php:480 ms-addons/square.addon.php:485
+msgid ""
+"Please <a href=\"javascript:window.history.back();\">go back and try again</"
+"a>"
+msgstr ""
+
+#: ms-core/ms-download.php:199
+#, fuzzy
+#| msgid "Music Store Collections"
+msgid "Music Store broken link notification"
+msgstr "Music Store Collections"
+
+#: ms-core/ms-download.php:214
+#, fuzzy
+#| msgid "The store is processing the purchase. You will be redirected in"
+msgid "The store should be processing the purchase. You will be redirected in"
+msgstr "The store is processing the purchase. You will be redirected in"
+
+#: ms-core/ms-download.php:325
+msgid "The product is no longer available in our Music Store"
+msgstr "The product is no longer available in our Music Store"
+
+#: ms-core/ms-download.php:331
+msgid "The product is not valid"
+msgstr "The product is not valid"
+
+#: ms-core/ms-download.php:356
+msgid "The list of purchased products is empty"
+msgstr "The list of purchased products is empty"
+
+#: ms-core/ms-functions.php:386
+msgid "License for exclusive purchases"
+msgstr "License for exclusive purchases"
+
+#: ms-core/ms-functions.php:391
+msgid "License for regular purchases"
+msgstr "License for regular purchases"
+
+#: ms-core/ms-song.php:186
+msgid "Album(s)"
+msgstr "Album(s)"
+
+#: ms-core/ms-song.php:187
+msgid "Genre(s)"
+msgstr "Genre(s)"
+
+#: ms-core/ms-song.php:188
+msgid "Duration"
+msgstr "Duration"
+
+#: ms-core/ms-song.php:189
+msgid "Year"
+msgstr "Year"
+
+#: ms-core/ms-song.php:190
+msgid "ISRC"
+msgstr "ISRC"
+
+#: ms-core/ms-song.php:191
+msgid "Description"
+msgstr "Description"
+
+#: ms-core/ms-song.php:192
+msgid "More Info"
+msgstr "More Info"
+
+#: ms-core/ms-song.php:193
+msgid "Go to the store page"
+msgstr "Go to the store page"
+
+#: ms-core/ms-song.php:194
+msgid "Get back"
+msgstr "Get back"
+
+#: ms-core/ms-song.php:195
+msgid "popularity"
+msgstr "popularity"
+
+#: ms-core/ms-song.php:196
+msgid "Price"
+msgstr "Price"
+
+#: ms-core/ms-song.php:286 music-store.php:686 music-store.php:3863
+msgid "Download"
+msgstr "Download"
+
+#: ms-core/ms-song.php:286
+msgid "License"
+msgstr "License"
+
+#: ms-core/ms-song.php:380
+#, fuzzy
+#| msgid "Select a product"
+msgid "Related Products"
+msgstr "Select a product"
+
+#: ms-core/ms-song.php:414
+#, fuzzy
+#| msgid "Music Store Settings"
+msgid "Song permalink"
+msgstr "Music Store Settings"
+
+#: ms-core/ms-song.php:416
+msgid ""
+"Enter a custom base to use. A base must be set or WordPress will use default "
+"instead."
+msgstr ""
+
+#: ms-core/ms-song.php:478
+msgid "Sales price:"
+msgstr "Sales price:"
+
+#: ms-core/ms-song.php:492
+msgid "Sales price (Exclusively):"
+msgstr "Sales price (Exclusively):"
+
+#: ms-core/ms-song.php:502
+msgid ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin"
+msgstr ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin"
+
+#: ms-core/ms-song.php:508
+msgid "Sell as a single:"
+msgstr "Sell as a single:"
+
+#: ms-core/ms-song.php:516
+msgid "Audio file for sale:"
+msgstr "Audio file for sale:"
+
+#: ms-core/ms-song.php:519 ms-core/ms-song.php:527 ms-core/ms-song.php:588
+#: music-store.php:1881
+msgid "File path/URL"
+msgstr "File path/URL"
+
+#: ms-core/ms-song.php:519 ms-core/ms-song.php:527 ms-core/ms-song.php:588
+#: music-store.php:1882
+msgid "Upload a file"
+msgstr "Upload a file"
+
+#: ms-core/ms-song.php:524
+msgid "Audio file for demo:"
+msgstr "Audio file for demo:"
+
+#: ms-core/ms-song.php:529
+msgid "Protect the file"
+msgstr "Protect the file"
+
+#: ms-core/ms-song.php:529
+msgid ""
+"The protection of audio files is only available for commercial version of "
+"plugin"
+msgstr ""
+"The protection of audio files is only available for commercial version of "
+"plugin"
+
+#: ms-core/ms-song.php:530
+msgid ""
+"For MIDI files, the protection option is not available, the audio file would "
+"be played completely."
+msgstr ""
+"For MIDI files, the protection option is not available, the audio file would "
+"be played completely."
+
+#: ms-core/ms-song.php:535
+msgid "Artist:"
+msgstr "Artist:"
+
+#: ms-core/ms-song.php:544
+msgid "Select an Artist"
+msgstr "Select an Artist"
+
+#: ms-core/ms-song.php:552
+msgid "Enter a new artist"
+msgstr "Enter a new artist"
+
+#: ms-core/ms-song.php:553
+msgid "Add artist"
+msgstr "Add artist"
+
+#: ms-core/ms-song.php:554
+msgid "Select an Artist from the list or enter new one"
+msgstr "Select an Artist from the list or enter new one"
+
+#: ms-core/ms-song.php:560
+msgid "Album including the song:"
+msgstr "Album including the song:"
+
+#: ms-core/ms-song.php:568
+msgid "Select an Album"
+msgstr "Select an Album"
+
+#: ms-core/ms-song.php:577
+msgid "Enter a new album"
+msgstr "Enter a new album"
+
+#: ms-core/ms-song.php:578
+msgid "Add album"
+msgstr "Add album"
+
+#: ms-core/ms-song.php:579
+msgid "Select an Album from the list or enter new one"
+msgstr "Select an Album from the list or enter new one"
+
+#: ms-core/ms-song.php:585
+msgid "Cover:"
+msgstr "Cover:"
+
+#: ms-core/ms-song.php:593
+msgid "Duration:"
+msgstr "Duration:"
+
+#: ms-core/ms-song.php:596
+msgid "For example 00:00"
+msgstr "For example 00:00"
+
+#: ms-core/ms-song.php:601
+msgid "Publication Year:"
+msgstr "Publication Year:"
+
+#: ms-core/ms-song.php:604
+msgid "For example 1999"
+msgstr "For example 1999"
+
+#: ms-core/ms-song.php:609
+msgid "ISRC:"
+msgstr "ISRC:"
+
+#: ms-core/ms-song.php:612
+msgid "Format: CC-XXX-YY-NNNNN"
+msgstr "Format: CC-XXX-YY-NNNNN"
+
+#: ms-core/ms-song.php:617
+msgid "Additional information:"
+msgstr "Additional information:"
+
+#: ms-core/ms-song.php:620
+msgid "Page URL"
+msgstr "Page URL"
+
+#: ms-core/ms-song.php:620
+msgid "Different webpage with additional information"
+msgstr "Different webpage with additional information"
+
+#: ms-core/ms-song.php:640 music-store.php:2207
+msgid "The discounts are only available for commercial version of plugin"
+msgstr "The discounts are only available for commercial version of plugin"
+
+#: ms-core/ms-song.php:641 music-store.php:2209
+msgid "Scheduled Discounts"
+msgstr "Scheduled Discounts"
+
+#: ms-core/ms-song.php:644
+msgid "New price in "
+msgstr "New price in "
+
+#: ms-core/ms-song.php:645 music-store.php:2216
+msgid "Valid from dd/mm/yyyy"
+msgstr "Valid from dd/mm/yyyy"
+
+#: ms-core/ms-song.php:646 music-store.php:2217
+msgid "Valid to dd/mm/yyyy"
+msgstr "Valid to dd/mm/yyyy"
+
+#: ms-core/ms-song.php:647 ms-core/ms-song.php:666 music-store.php:2218
+#: music-store.php:2241
+msgid "Promotional text"
+msgstr "Promotional text"
+
+#: ms-core/ms-song.php:648 music-store.php:2219
+msgid "Status"
+msgstr "Status"
+
+#: ms-core/ms-song.php:654
+msgid "New price (*)"
+msgstr "New price (*)"
+
+#: ms-core/ms-song.php:658 music-store.php:2233
+msgid "Valid from (dd/mm/yyyy)"
+msgstr "Valid from (dd/mm/yyyy)"
+
+#: ms-core/ms-song.php:662 music-store.php:2237
+msgid "Valid to (dd/mm/yyyy)"
+msgstr "Valid to (dd/mm/yyyy)"
+
+#: ms-core/ms-song.php:669 music-store.php:2245
+msgid "Add/Update Discount"
+msgstr "Add/Update Discount"
+
+#: ms-core/ms-song.php:708
+msgid "Invalid file type for selling."
+msgstr "Invalid file type for selling."
+
+#: ms-core/ms-song.php:713
+msgid "Invalid file type for demo."
+msgstr "Invalid file type for demo."
+
+#: ms-core/ms-song.php:718 music-store.php:1528
+msgid "Invalid file type for cover."
+msgstr "Invalid file type for cover."
+
+#: ms-core/ms-song.php:845
+msgid "Song Id"
+msgstr "Song Id"
+
+#: ms-core/ms-song.php:846
+msgid "Song Name"
+msgstr "Song Name"
+
+#: ms-core/ms-song.php:847 ms-page-builder/elementor/elementor.pb.php:73
+#: ms-page-builder/elementor/elementor.pb.php:343
+#: ms-page-builder/ms-page-builders.php:89 music-store.php:1161
+#: music-store.php:1163 music-store.php:1171 music-store.php:1352
+#: music-store.php:1937
+msgid "Artists"
+msgstr "Artists"
+
+#: ms-core/ms-song.php:848 ms-page-builder/elementor/elementor.pb.php:83
+#: ms-page-builder/elementor/elementor.pb.php:352
+#: ms-page-builder/ms-page-builders.php:90 music-store.php:1189
+#: music-store.php:1191 music-store.php:1199 music-store.php:1353
+#: music-store.php:1929
+msgid "Albums"
+msgstr "Albums"
+
+#: ms-core/ms-song.php:849 ms-page-builder/elementor/elementor.pb.php:63
+#: ms-page-builder/elementor/elementor.pb.php:334
+#: ms-page-builder/ms-page-builders.php:88 music-store.php:1133
+#: music-store.php:1135 music-store.php:1143 music-store.php:1351
+#: music-store.php:1933
+msgid "Genres"
+msgstr "Genres"
+
+#: ms-core/ms-song.php:850 music-store.php:3736
+msgid "Popularity"
+msgstr "Popularity"
+
+#: ms-core/ms-song.php:851
+msgid "Plays"
+msgstr "Plays"
+
+#: ms-core/ms-song.php:852
+msgid "Purchases"
+msgstr "Purchases"
+
+#: ms-core/ms-song.php:853 music-store.php:2515 music-store.php:2627
+msgid "Date"
+msgstr "Date"
+
+#: ms-core/ms-store-importer.php:57
+#, fuzzy
+#| msgid "Store Settings"
+msgid "Imported settings."
+msgstr "Store Settings"
+
+#: ms-core/ms-store-importer.php:62
+msgid "The file's content is not a valid serialized PHP object."
+msgstr ""
+
+#: ms-core/ms-store-importer.php:67
+msgid "It is not possible to read the file's content."
+msgstr ""
+
+#: ms-core/ms-templates.php:12
+#, fuzzy
+#| msgid "Products per page"
+msgid "Customizing the Products Templates"
+msgstr "Products per page"
+
+#: ms-core/ms-templates.php:21
+msgid "Default Templates Reloaded"
+msgstr ""
+
+#: ms-core/ms-templates.php:36
+#, fuzzy
+#| msgid "Settings Updated"
+msgid "Templates Updated"
+msgstr "Settings Updated"
+
+#: ms-core/ms-templates.php:45
+msgid ""
+"This section is accessible only by website administrators. Please, be "
+"careful when editing the templates. If editing the templates breaks the "
+"products or store pages, first try disabling the custom templates or reload "
+"the default ones."
+msgstr ""
+
+#: ms-core/ms-templates.php:50
+msgid ""
+"If have been associated custom fields to the songs, they can be displayed in "
+"the pages of products and store. For example, if has been associated to the "
+"song the custom field: my_field, it is possible to include a block similar "
+"to the following one, as part of the template structure:<br><br>\n"
+"\t&lt;tpl ifset=\"my_field\"&gt;<br>&lt;div&gt;&lt;label&gt;The label text:"
+"&lt;/label&gt;{my_field}&lt;/div&gt;<br>&lt;/tpl ifset=\"my_field\"&gt;"
+msgstr ""
+
+#: ms-core/ms-templates.php:111
+#, fuzzy
+#| msgid "Music Store Settings"
+msgid "Using custom templates"
+msgstr "Music Store Settings"
+
+#: ms-core/ms-templates.php:113
+#, fuzzy
+#| msgid "Help"
+msgid "Help?"
+msgstr "Help"
+
+#: ms-core/ms-templates.php:116
+#, fuzzy
+#| msgid "Songs Importer"
+msgid "Song Templates"
+msgstr "Songs Importer"
+
+#: ms-core/ms-templates.php:118
+msgid "Template used on the songs pages"
+msgstr ""
+
+#: ms-core/ms-templates.php:126
+msgid "Template used by the songs on the shop pages"
+msgstr ""
+
+#: ms-core/ms-templates.php:134
+msgid ""
+"Template used by the songs on the archive pages (like gender, artist, album "
+"pages)"
+msgstr ""
+
+#: ms-core/ms-templates.php:141
+#, fuzzy
+#| msgid "Update Genre"
+msgid "Update"
+msgstr "Update Genre"
+
+#: ms-core/ms-templates.php:142
+msgid "Reload Default Templates"
+msgstr ""
+
+#: ms-core/ms-templates.php:152
+msgid "Do you really want to reload the default templates?"
+msgstr ""
+
+#: ms-core/ms-widgets.php:76 ms-core/ms-widgets.php:153
+#: ms-core/ms-widgets.php:241 ms-core/ms-widgets.php:316
+#, fuzzy
+#| msgid "Title"
+msgid "Title:"
+msgstr "Title"
+
+#: ms-core/ms-widgets.php:79 music-store.php:3028
+#, fuzzy
+#| msgid "Select a product"
+msgid "Select the type of list:"
+msgstr "Select a product"
+
+#: ms-core/ms-widgets.php:91 music-store.php:3029
+#, fuzzy
+#| msgid "The product is required"
+msgid "Enter the number of products to show:"
+msgstr "The product is required"
+
+#: ms-core/ms-widgets.php:96 music-store.php:3030
+#, fuzzy
+#| msgid "Number of columns"
+msgid "Enter the number of columns:"
+msgstr "Number of columns"
+
+#: ms-core/ms-widgets.php:156
+#, fuzzy
+#| msgid "The product is required"
+msgid "Enter the product ID:"
+msgstr "The product is required"
+
+#: ms-core/ms-widgets.php:244 music-store.php:3061
+msgid "Select the numbers design:"
+msgstr ""
+
+#: ms-core/ms-widgets.php:251 music-store.php:3062
+msgid "Enter minimum length of counter:"
+msgstr ""
+
+#: ms-core/ms-widgets.php:284
+msgid "Logout"
+msgstr ""
+
+#: ms-core/ms-widgets.php:318
+#, fuzzy
+#| msgid "Go to the store page"
+msgid "Enter the URL to the store page:"
+msgstr "Go to the store page"
+
+#: ms-core/ms-wizard.php:29
+msgid "Music Store Wizard Completed"
+msgstr "Music Store Wizard Completed"
+
+#: ms-core/ms-wizard.php:40
+msgid "Music Store Wizard"
+msgstr "Music Store Wizard"
+
+#: ms-core/ms-wizard.php:43
+msgid "Step 1 of 2"
+msgstr "Step 1 of 2"
+
+#: ms-core/ms-wizard.php:48
+msgid "Enter the email address associated to your PayPal account"
+msgstr "Enter the email address associated to your PayPal account"
+
+#: ms-core/ms-wizard.php:51
+msgid "Email address"
+msgstr "Email address"
+
+#: ms-core/ms-wizard.php:52
+msgid "Leave in blank if you want distribute your songs for free."
+msgstr "Leave in blank if you want distribute your songs for free."
+
+#: ms-core/ms-wizard.php:57
+msgid "Next step"
+msgstr "Next step"
+
+#: ms-core/ms-wizard.php:60
+msgid "Step 2 of 2"
+msgstr "Step 2 of 2"
+
+#: ms-core/ms-wizard.php:60
+msgid "Store Page"
+msgstr "Store Page"
+
+#: ms-core/ms-wizard.php:64
+msgid "Enter the shop page's title"
+msgstr "Enter the shop page's title"
+
+#: ms-core/ms-wizard.php:67
+msgid "Leave in blank if you want to configure the shop's page after."
+msgstr "Leave in blank if you want to configure the shop's page after."
+
+#: ms-core/ms-wizard.php:71
+msgid "Products per page"
+msgstr "Products per page"
+
+#: ms-core/ms-wizard.php:75 ms-page-builder/elementor/elementor.pb.php:52
+#: ms-page-builder/elementor/elementor.pb.php:314
+#: ms-page-builder/ms-page-builders.php:87
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:38
+#: ms-page-builder/siteorigin/siteorigin-ms/siteorigin-ms.php:27
+msgid "Number of columns"
+msgstr "Number of columns"
+
+#: ms-core/ms-wizard.php:80
+msgid "Previous step"
+msgstr "Previous step"
+
+#: ms-core/ms-wizard.php:81
+msgid "Save wizard and create my first song"
+msgstr "Save wizard and create my first song"
+
+#: ms-core/ms-wizard.php:82
+msgid "Save wizad and go to the store's settings"
+msgstr "Save wizad and go to the store's settings"
+
+#: ms-core/ms-woocommerce/ms-woocommerce.php:28 music-store.php:1456
+msgid "View Cart"
+msgstr ""
+
+#: ms-core/ms-woocommerce/ms-woocommerce.php:35
+#, fuzzy
+#| msgid "Add artist"
+msgid "Add To Cart"
+msgstr "Add artist"
+
+#: ms-page-builder/beaverbuilder/ms.inc.php:8
+#: ms-page-builder/beaverbuilder/ms/ms.pb.php:9
+#: ms-page-builder/beaverbuilder/ms/ms.pb.php:11
+#: ms-page-builder/beaverbuilder/ms/ms.pb.php:12
+#: ms-page-builder/elementor/elementor.pb.php:34
+#: ms-page-builder/ms-page-builders.php:136
+#: ms-page-builder/siteorigin/siteorigin-ms/siteorigin-ms.php:13
+#, fuzzy
+#| msgid "Music Store Songs"
+msgid "Music Store"
+msgstr "Music Store Songs"
+
+#: ms-page-builder/beaverbuilder/ms.inc.php:11
+#, fuzzy
+#| msgid "Store Settings"
+msgid "Store's Attributes"
+msgstr "Store Settings"
+
+#: ms-page-builder/beaverbuilder/ms.inc.php:15
+#, fuzzy
+#| msgid "Number of columns"
+msgid "Number of Columns"
+msgstr "Number of columns"
+
+#: ms-page-builder/beaverbuilder/ms.inc.php:16
+msgid "Number of columns to distribute the products in the store's pages"
+msgstr ""
+
+#: ms-page-builder/beaverbuilder/ms.inc.php:20
+#, fuzzy
+#| msgid "Additional information:"
+msgid "Additional attributes"
+msgstr "Additional information:"
+
+#: ms-page-builder/beaverbuilder/ms.inc.php:21
+msgid "Click here to know the complete list of attributes"
+msgstr ""
+
+#: ms-page-builder/beaverbuilder/ms/ms.pb.php:10
+msgid "Insert the store shortcode"
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:41
+#: ms-page-builder/ms-page-builders.php:94
+#: ms-page-builder/siteorigin/siteorigin-ms/siteorigin-ms.php:23
+#, fuzzy
+#| msgid "The product is required"
+msgid "Enter the id of products to exclude"
+msgstr "The product is required"
+
+#: ms-page-builder/elementor/elementor.pb.php:45
+#: ms-page-builder/ms-page-builders.php:108
+msgid "Enter the id of products to exclude from the store, separated by comma."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:56
+#: ms-page-builder/ms-page-builders.php:101
+msgid "Enter the number of columns, one column by default."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:66
+#: ms-page-builder/elementor/elementor.pb.php:336
+#: ms-page-builder/ms-page-builders.php:102
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:43
+#: ms-page-builder/siteorigin/siteorigin-ms/siteorigin-ms.php:32
+msgid ""
+"Enter the genres' ids or slugs separated by comma to restrict the store's "
+"products to these genres. All genres by default."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:76
+#: ms-page-builder/elementor/elementor.pb.php:345
+#: ms-page-builder/ms-page-builders.php:103
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:47
+#: ms-page-builder/siteorigin/siteorigin-ms/siteorigin-ms.php:36
+msgid ""
+"Enter the artists' ids or slugs separated by comma to restrict the store's "
+"products to these artists. All artists by default."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:86
+#: ms-page-builder/elementor/elementor.pb.php:354
+#: ms-page-builder/ms-page-builders.php:104
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:51
+#: ms-page-builder/siteorigin/siteorigin-ms/siteorigin-ms.php:40
+msgid ""
+"Enter the albums' ids or slugs separated by comma to restrict the store's "
+"products to these albums. All albums by default."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:185 music-store.php:2515
+#: music-store.php:2604
+msgid "Product"
+msgstr "Product"
+
+#: ms-page-builder/elementor/elementor.pb.php:192
+#: ms-page-builder/ms-page-builders.php:83
+#: ms-page-builder/siteorigin/siteorigin-ms-product/siteorigin-ms-product.php:23
+#, fuzzy
+#| msgid "The product is required"
+msgid "Enter the product's id"
+msgstr "The product is required"
+
+#: ms-page-builder/elementor/elementor.pb.php:194
+#: ms-page-builder/ms-page-builders.php:98
+msgid "Enter the id of a published product."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:201
+#: ms-page-builder/ms-page-builders.php:86
+#: ms-page-builder/siteorigin/siteorigin-ms-product/siteorigin-ms-product.php:27
+#, fuzzy
+#| msgid "Select a product"
+msgid "Select the product's layout"
+msgstr "Select a product"
+
+#: ms-page-builder/elementor/elementor.pb.php:204
+#: ms-page-builder/ms-page-builders.php:74
+#, fuzzy
+#| msgid "Go to the store page"
+msgid "Like in the store's page"
+msgstr "Go to the store page"
+
+#: ms-page-builder/elementor/elementor.pb.php:205
+#: ms-page-builder/ms-page-builders.php:75
+msgid "Like in the product's page"
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:208
+#: ms-page-builder/ms-page-builders.php:100
+msgid "Appearance applied to the product."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:243
+#: ms-page-builder/ms-page-builders.php:85
+#, fuzzy
+#| msgid "The product is required"
+msgid "The product's id is required."
+msgstr "The product is required"
+
+#: ms-page-builder/elementor/elementor.pb.php:292 music-store.php:2758
+msgid "Products List"
+msgstr "Products List"
+
+#: ms-page-builder/elementor/elementor.pb.php:299
+#: ms-page-builder/ms-page-builders.php:93
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:23
+#, fuzzy
+#| msgid "List all products"
+msgid "List the products"
+msgstr "List all products"
+
+#: ms-page-builder/elementor/elementor.pb.php:302
+#: ms-page-builder/ms-page-builders.php:69
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:25
+#, fuzzy
+#| msgid "Select a product"
+msgid "New products"
+msgstr "Select a product"
+
+#: ms-page-builder/elementor/elementor.pb.php:303
+#: ms-page-builder/ms-page-builders.php:70
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:26
+#, fuzzy
+#| msgid "Downloads free products"
+msgid "Top rated products"
+msgstr "Downloads free products"
+
+#: ms-page-builder/elementor/elementor.pb.php:304
+#: ms-page-builder/ms-page-builders.php:71
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:27
+#, fuzzy
+#| msgid "List all products"
+msgid "Most sold products"
+msgstr "List all products"
+
+#: ms-page-builder/elementor/elementor.pb.php:307
+#: ms-page-builder/ms-page-builders.php:107
+msgid "Products to include in the list."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:317
+msgid "Enter the number of columns, three columns by default."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:324
+#: ms-page-builder/ms-page-builders.php:84
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:33
+msgid "Enter the number of products"
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:327
+#: ms-page-builder/ms-page-builders.php:99
+msgid "Number of products to load. Three products by default."
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:457
+#, fuzzy
+#| msgid "Purchases"
+msgid "Purchased List"
+msgstr "Purchases"
+
+#: ms-page-builder/elementor/elementor.pb.php:523
+#, fuzzy
+#| msgid "Sales by country"
+msgid "Sales Counter"
+msgstr "Sales by country"
+
+#: ms-page-builder/elementor/elementor.pb.php:530
+#: ms-page-builder/ms-page-builders.php:91
+#, fuzzy
+#| msgid "Player style"
+msgid "Numbers styles"
+msgstr "Player style"
+
+#: ms-page-builder/elementor/elementor.pb.php:534
+#: ms-page-builder/siteorigin/siteorigin-ms-counter/siteorigin-ms-counter.php:25
+msgid "Style One"
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:538
+#: ms-page-builder/siteorigin/siteorigin-ms-counter/siteorigin-ms-counter.php:26
+msgid "Style Two"
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:543
+#: ms-page-builder/ms-page-builders.php:105
+msgid "Select the number styles"
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:550
+#: ms-page-builder/ms-page-builders.php:92
+msgid "Digits"
+msgstr ""
+
+#: ms-page-builder/elementor/elementor.pb.php:553
+#: ms-page-builder/ms-page-builders.php:106
+msgid "Number of digits in the counter, default 3."
+msgstr ""
+
+#: ms-page-builder/ms-page-builders.php:64
+msgid "All"
+msgstr ""
+
+#: ms-page-builder/ms-page-builders.php:65
+#, fuzzy
+#| msgid "Music Store Collections"
+msgid "Collections"
+msgstr "Music Store Collections"
+
+#: ms-page-builder/ms-page-builders.php:66
+msgid "Singles"
+msgstr ""
+
+#: ms-page-builder/ms-page-builders.php:82
+#, fuzzy
+#| msgid "Product"
+msgid "Product type"
+msgstr "Product"
+
+#: ms-page-builder/ms-page-builders.php:97
+msgid "Select the products type include in the store."
+msgstr ""
+
+#: ms-page-builder/siteorigin/siteorigin-ms-counter/siteorigin-ms-counter.php:13
+#, fuzzy
+#| msgid "Music Store Sales Report"
+msgid "Music Store Sales Counter"
+msgstr "Music Store Sales Report"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-counter/siteorigin-ms-counter.php:15
+#, fuzzy
+#| msgid "Insert Music Store"
+msgid "Inserts the Sales Counter Shortcode"
+msgstr "Insert Music Store"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-counter/siteorigin-ms-counter.php:23
+#, fuzzy
+#| msgid "Player style"
+msgid "Numbers Styles"
+msgstr "Player style"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-counter/siteorigin-ms-counter.php:32
+msgid "Number of digits in the counter, default 3"
+msgstr ""
+
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:13
+#, fuzzy
+#| msgid "Music Store Wizard"
+msgid "Music Store Products List"
+msgstr "Music Store Wizard"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-product-list/siteorigin-ms-product-list.php:15
+#, fuzzy
+#| msgid "Insert Music Store"
+msgid "Inserts the Products List shortcode"
+msgstr "Insert Music Store"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-product/siteorigin-ms-product.php:13
+#, fuzzy
+#| msgid "Music Store Wizard"
+msgid "Music Store Product"
+msgstr "Music Store Wizard"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-product/siteorigin-ms-product.php:15
+#, fuzzy
+#| msgid "Insert Music Store"
+msgid "Inserts the Product shortcode"
+msgstr "Insert Music Store"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-product/siteorigin-ms-product.php:30
+msgid "Short"
+msgstr ""
+
+#: ms-page-builder/siteorigin/siteorigin-ms-product/siteorigin-ms-product.php:31
+msgid "Completed"
+msgstr ""
+
+#: ms-page-builder/siteorigin/siteorigin-ms-purchased-list/siteorigin-ms-purchased-list.php:13
+#, fuzzy
+#| msgid "Music Store Wizard"
+msgid "Music Store Purchased List"
+msgstr "Music Store Wizard"
+
+#: ms-page-builder/siteorigin/siteorigin-ms-purchased-list/siteorigin-ms-purchased-list.php:15
+#, fuzzy
+#| msgid "Insert Music Store"
+msgid "Inserts the purchased list shortcode"
+msgstr "Insert Music Store"
+
+#: ms-page-builder/siteorigin/siteorigin-ms/siteorigin-ms.php:15
+#, fuzzy
+#| msgid "Insert Music Store"
+msgid "Inserts the Music Store shortcode"
+msgstr "Insert Music Store"
+
+#: music-store.php:234
+msgid "Product distributed for free"
+msgstr "Product distributed for free"
+
+#: music-store.php:378
+#, fuzzy
+#| msgid "Music Store Settings"
+msgid "Music Store permalinks"
+msgstr "Music Store Settings"
+
+#: music-store.php:424
+msgid "There are no products that satisfy the block's settings"
+msgstr ""
+
+#: music-store.php:507
+#, fuzzy
+#| msgid "Download"
+msgid "Download Page"
+msgstr "Download"
+
+#: music-store.php:594
+msgid "Download Links:"
+msgstr "Download Links:"
+
+#: music-store.php:633
+msgid "Type the email address used to purchase our products"
+msgstr "Type the email address used to purchase our products"
+
+#: music-store.php:764
+msgid "Song's data"
+msgstr "Song's data"
+
+#: music-store.php:768 music-store.php:1325
+#, fuzzy
+#| msgid "Purchases"
+msgid "Manual Purchase"
+msgstr "Purchases"
+
+#: music-store.php:773
+msgid "Programming Discounts"
+msgstr "Programming Discounts"
+
+#: music-store.php:795
+msgid "Help"
+msgstr "Help"
+
+#: music-store.php:797
+msgid "Request custom changes"
+msgstr "Request custom changes"
+
+#: music-store.php:799
+msgid "Settings"
+msgstr "Settings"
+
+#: music-store.php:1081
+msgid "Songs"
+msgstr "Songs"
+
+#: music-store.php:1082
+msgid "Song"
+msgstr "Song"
+
+#: music-store.php:1083
+msgid "Add New"
+msgstr "Add New"
+
+#: music-store.php:1084
+msgid "Add New Song"
+msgstr "Add New Song"
+
+#: music-store.php:1085
+msgid "Edit Song"
+msgstr "Edit Song"
+
+#: music-store.php:1086
+msgid "New Song"
+msgstr "New Song"
+
+#: music-store.php:1087
+msgid "View Song"
+msgstr "View Song"
+
+#: music-store.php:1088
+msgid "Search Songs"
+msgstr "Search Songs"
+
+#: music-store.php:1089
+msgid "No songs found"
+msgstr "No songs found"
+
+#: music-store.php:1090
+msgid "No songs found in Trash"
+msgstr "No songs found in Trash"
+
+#: music-store.php:1091
+msgid "Songs for Sale"
+msgstr "Songs for Sale"
+
+#: music-store.php:1136
+msgid "Genre"
+msgstr "Genre"
+
+#: music-store.php:1137
+msgid "Search Genres"
+msgstr "Search Genres"
+
+#: music-store.php:1138
+msgid "All Genres"
+msgstr "All Genres"
+
+#: music-store.php:1139
+msgid "Edit Genre"
+msgstr "Edit Genre"
+
+#: music-store.php:1140
+msgid "Update Genre"
+msgstr "Update Genre"
+
+#: music-store.php:1141
+msgid "Add New Genre"
+msgstr "Add New Genre"
+
+#: music-store.php:1142
+msgid "New Genre Name"
+msgstr "New Genre Name"
+
+#: music-store.php:1164
+msgid "Artist"
+msgstr "Artist"
+
+#: music-store.php:1165
+msgid "Search Artists"
+msgstr "Search Artists"
+
+#: music-store.php:1166
+msgid "All Artists"
+msgstr "All Artists"
+
+#: music-store.php:1167
+msgid "Edit Artist"
+msgstr "Edit Artist"
+
+#: music-store.php:1168
+msgid "Update Artist"
+msgstr "Update Artist"
+
+#: music-store.php:1169
+msgid "Add New Artist"
+msgstr "Add New Artist"
+
+#: music-store.php:1170
+msgid "New Artist Name"
+msgstr "New Artist Name"
+
+#: music-store.php:1192
+msgid "Album"
+msgstr "Album"
+
+#: music-store.php:1193
+msgid "Search Albums"
+msgstr "Search Albums"
+
+#: music-store.php:1194
+msgid "All Albums"
+msgstr "All Albums"
+
+#: music-store.php:1195
+msgid "Edit Album"
+msgstr "Edit Album"
+
+#: music-store.php:1196
+msgid "Update Album"
+msgstr "Update Album"
+
+#: music-store.php:1197
+msgid "Add New Album"
+msgstr "Add New Album"
+
+#: music-store.php:1198
+msgid "New Album Name"
+msgstr "New Album Name"
+
+#: music-store.php:1258
+#, fuzzy
+#| msgid "Music Store Settings"
+msgid "Genre permalink"
+msgstr "Music Store Settings"
+
+#: music-store.php:1264
+#, fuzzy
+#| msgid "Music Store Settings"
+msgid "Artist permalink"
+msgstr "Music Store Settings"
+
+#: music-store.php:1270
+msgid "Album permalink"
+msgstr ""
+
+#: music-store.php:1325
+msgid ""
+"To emulate a purchase it is possible to include a manual entry in the sales "
+"reports. Configure the product, and press the manual purchase button"
+msgstr ""
+
+#: music-store.php:1351
+msgid "Set Genres"
+msgstr "Set Genres"
+
+#: music-store.php:1352
+msgid "Set Artists"
+msgstr "Set Artists"
+
+#: music-store.php:1353
+msgid "Set Albums"
+msgstr "Set Albums"
+
+#: music-store.php:1358 music-store.php:1384
+msgid "Music Store Settings"
+msgstr "Music Store Settings"
+
+#: music-store.php:1358
+msgid "Store Settings"
+msgstr "Store Settings"
+
+#: music-store.php:1361
+#, fuzzy
+#| msgid "Music Store Settings"
+msgid "Music Store Templates"
+msgstr "Music Store Settings"
+
+#: music-store.php:1361
+#, fuzzy
+#| msgid "Products per page"
+msgid "Products Templates"
+msgstr "Products per page"
+
+#: music-store.php:1364
+msgid "Music Store Sales Report"
+msgstr "Music Store Sales Report"
+
+#: music-store.php:1364 music-store.php:1387
+msgid "Sales Report"
+msgstr "Sales Report"
+
+#: music-store.php:1367 music-store.php:1388
+msgid "Songs Importer"
+msgstr "Songs Importer"
+
+#: music-store.php:1370
+msgid "Online Help"
+msgstr "Online Help"
+
+#: music-store.php:1385
+msgid "Music Store Songs"
+msgstr "Music Store Songs"
+
+#: music-store.php:1386
+msgid "Music Store Collections"
+msgstr "Music Store Collections"
+
+#: music-store.php:1446 music-store.php:1452
+msgid "Buy Now"
+msgstr ""
+
+#: music-store.php:1448 music-store.php:1450
+msgid "Pay Now"
+msgstr ""
+
+#: music-store.php:1454
+#, fuzzy
+#| msgid "Add artist"
+msgid "Add to Cart"
+msgstr "Add artist"
+
+#: music-store.php:1619 music-store.php:1628
+msgid "Settings Updated"
+msgstr "Settings Updated"
+
+#: music-store.php:1659
+#, fuzzy
+#| msgid "Store Settings"
+msgid "Export Store Settings"
+msgstr "Store Settings"
+
+#: music-store.php:1664
+#, fuzzy
+#| msgid "Store Settings"
+msgid "Import Store Settings"
+msgstr "Store Settings"
+
+#: music-store.php:1671
+msgid "Store page config"
+msgstr "Store page config"
+
+#: music-store.php:1681
+msgid "Integrate into WooCommerce"
+msgstr ""
+
+#: music-store.php:1687
+msgid "Experimental feature"
+msgstr ""
+
+#: music-store.php:1690
+msgid ""
+"Checking the WooCommerce integration checkbox would disable discounts, "
+"coupons, payment gateways, shopping cart, add-ons, notification emails and "
+"any other features of the Music Store plugin involved in the purchase "
+"process and communication with the buyer.  Since in this case all these "
+"functionalities would fall on WooCommerce. The Music Store would be "
+"restricted only to generate and display the products."
+msgstr ""
+
+#: music-store.php:1698
+msgid "URL of store page"
+msgstr "URL of store page"
+
+#: music-store.php:1702
+msgid "Set the URL of page where the music store was inserted"
+msgstr "Set the URL of page where the music store was inserted"
+
+#: music-store.php:1706
+msgid "Prevent the products pages be cached"
+msgstr ""
+
+#: music-store.php:1713
+msgid "Allow searching by taxonomies"
+msgstr "Allow searching by taxonomies"
+
+#: music-store.php:1721
+msgid "Allow filtering by type"
+msgstr "Allow filtering by type"
+
+#: music-store.php:1724
+msgid ""
+"The option is not available because the free version allows to create only "
+"songs"
+msgstr ""
+"The option is not available because the free version allows to create only "
+"songs"
+
+#: music-store.php:1728
+msgid "Allow filtering by genre"
+msgstr "Allow filtering by genre"
+
+#: music-store.php:1734
+msgid "Allow filtering by artist"
+msgstr "Allow filtering by artist"
+
+#: music-store.php:1740
+msgid "Allow filtering by album"
+msgstr "Allow filtering by album"
+
+#: music-store.php:1746
+msgid "Allow multiple pages"
+msgstr "Allow multiple pages"
+
+#: music-store.php:1752
+msgid "Items per page"
+msgstr "Items per page"
+
+#: music-store.php:1756
+msgid "Use friendly URLs on products"
+msgstr "Use friendly URLs on products"
+
+#: music-store.php:1762
+msgid "Store layout"
+msgstr "Store layout"
+
+#: music-store.php:1765
+msgid "Default layout"
+msgstr "Default layout"
+
+#: music-store.php:1782
+msgid "Show the products popularity"
+msgstr ""
+
+#: music-store.php:1790
+msgid "Player style"
+msgstr "Player style"
+
+#: music-store.php:1808
+msgid ""
+"For MIDI audio files only the play/pause button will be displayed on players."
+msgstr ""
+"For MIDI audio files only the play/pause button will be displayed on players."
+
+#: music-store.php:1812
+msgid "Play all"
+msgstr "Play all"
+
+#: music-store.php:1814
+msgid "Play all songs in the webpage, one after the other"
+msgstr "Play all songs in the webpage, one after the other"
+
+#: music-store.php:1818
+#, fuzzy
+#| msgid "Upload a file"
+msgid "Preload audio files"
+msgstr "Upload a file"
+
+#: music-store.php:1820
+msgid ""
+"Preloading of audio files by players. Allows audio files to be preloaded for "
+"quick playback by pressing the play buttons, but increases resource "
+"consumption"
+msgstr ""
+
+#: music-store.php:1824
+msgid "Percent of audio used for protected playbacks"
+msgstr "Percent of audio used for protected playbacks"
+
+#: music-store.php:1827
+msgid ""
+"To prevent unauthorized copying of audio files, the files will be partially "
+"accessible"
+msgstr ""
+"To prevent unauthorized copying of audio files, the files will be partially "
+"accessible"
+
+#: music-store.php:1829
+msgid ""
+"The commercial version of plugin generates a truncated version of the audio "
+"file for selling to be used as demo"
+msgstr ""
+"The commercial version of plugin generates a truncated version of the audio "
+"file for selling to be used as demo"
+
+#: music-store.php:1835
+msgid "Explain text for protected playbacks"
+msgstr "Explain text for protected playbacks"
+
+#: music-store.php:1838
+msgid ""
+"The text will be shown below of the music player when secure playback is "
+"checked."
+msgstr ""
+"The text will be shown below of the music player when secure playback is "
+"checked."
+
+#: music-store.php:1841
+msgid ""
+"The secure playback is available only in the commercial version of plugin"
+msgstr ""
+"The secure playback is available only in the commercial version of plugin"
+
+#: music-store.php:1847
+msgid "Share in social networks"
+msgstr "Share in social networks"
+
+#: music-store.php:1850
+msgid ""
+"The option enables the buttons for share the pages of songs and collections "
+"in social networks"
+msgstr ""
+"The option enables the buttons for share the pages of songs and collections "
+"in social networks"
+
+#: music-store.php:1855
+msgid "Facebook app id for sharing in Facebook"
+msgstr "Facebook app id for sharing in Facebook"
+
+#: music-store.php:1858
+msgid ""
+"Click the link to generate the Facebook App and get its ID: <a "
+"target=\"_blank\" href=\"https://developers.facebook.com/apps\">https://"
+"developers.facebook.com/apps</a>"
+msgstr ""
+"Click the link to generate the Facebook App and get its ID: <a "
+"target=\"_blank\" href=\"https://developers.facebook.com/apps\">https://"
+"developers.facebook.com/apps</a>"
+
+#: music-store.php:1870
+#, fuzzy
+#| msgid "Store page config"
+msgid "Product config"
+msgstr "Store page config"
+
+#: music-store.php:1877
+msgid "Default cover image"
+msgstr ""
+
+#: music-store.php:1884
+msgid "Cover to display when products do not have an associated image"
+msgstr ""
+
+#: music-store.php:1888
+msgid "Size of cover image"
+msgstr ""
+
+#: music-store.php:1892
+msgid "Medium size"
+msgstr ""
+
+#: music-store.php:1895
+msgid "Full size"
+msgstr ""
+
+#: music-store.php:1896
+msgid ""
+"The size of cover image selected only affects to the images associated to "
+"the products from now, the images selected previously won't be modified"
+msgstr ""
+
+#: music-store.php:1901
+#, fuzzy
+#| msgid "Product"
+msgid "Product page"
+msgstr "Product"
+
+#: music-store.php:1905
+#, fuzzy
+#| msgid "Downloads free products"
+msgid "Include list of related products"
+msgstr "Downloads free products"
+
+#: music-store.php:1913
+#, fuzzy
+#| msgid "Number of columns"
+msgid "Number of related products"
+msgstr "Number of columns"
+
+#: music-store.php:1919
+#, fuzzy
+#| msgid "Display"
+msgid "Display list in"
+msgstr "Display"
+
+#: music-store.php:1920
+#, fuzzy
+#| msgid "Columns:"
+msgid "columns"
+msgstr "Columns:"
+
+#: music-store.php:1924
+#, fuzzy
+#| msgid "Products per page"
+msgid "Products related by"
+msgstr "Products per page"
+
+#: music-store.php:1951
+msgid "How configure your PayPal account"
+msgstr "How configure your PayPal account"
+
+#: music-store.php:1951
+msgid "close [x]"
+msgstr "close [x]"
+
+#: music-store.php:1955
+msgid "PayPal Documentation"
+msgstr ""
+
+#: music-store.php:1959
+msgid "Payment Gateway Configuration"
+msgstr "Payment Gateway Configuration"
+
+#: music-store.php:1968
+msgid ""
+"Your website is hosted locally, so, the PayPal IPN cannot reach your "
+"website. For testing the purchases the website should be hosted publicly."
+msgstr ""
+"Your website is hosted locally, so, the PayPal IPN cannot reach your "
+"website. For testing the purchases the website should be hosted publicly."
+
+#: music-store.php:1973
+msgid "Enable Paypal Payments?"
+msgstr "Enable Paypal Payments?"
+
+#: music-store.php:1980
+msgid "Use Paypal Sandbox"
+msgstr "Use Paypal Sandbox"
+
+#: music-store.php:1987
+msgid "Paypal email"
+msgstr "Paypal email"
+
+#: music-store.php:1989
+msgid "more information"
+msgstr "more information"
+
+#: music-store.php:1989
+msgid "enabling the IPN in PayPal tutorial"
+msgstr "enabling the IPN in PayPal tutorial"
+
+#: music-store.php:1999 music-store.php:2515 music-store.php:2653
+msgid "Currency"
+msgstr "Currency"
+
+#: music-store.php:2006
+msgid "Currency Symbol"
+msgstr "Currency Symbol"
+
+#: music-store.php:2011
+msgid "Paypal language"
+msgstr "Paypal language"
+
+#: music-store.php:2022
+#, fuzzy
+#| msgid "Paypal button"
+msgid "Payment button"
+msgstr "Paypal button"
+
+#: music-store.php:2028
+msgid "or use a shopping cart"
+msgstr "or use a shopping cart"
+
+#: music-store.php:2046 music-store.php:2072
+msgid "The shopping cart is available only in the commercial version of plugin"
+msgstr ""
+"The shopping cart is available only in the commercial version of plugin"
+
+#: music-store.php:2051
+msgid "Hide download link if price in blank"
+msgstr ""
+
+#: music-store.php:2054
+msgid ""
+"The plugin assumes the songs whose price is left in blank are distributed "
+"for free, and includes a download link in them, click the checkbox to change "
+"this behavior."
+msgstr ""
+
+#: music-store.php:2064
+msgid "Apply taxes (in percentage)"
+msgstr "Apply taxes (in percentage)"
+
+#: music-store.php:2071
+msgid "Hide the shopping cart icon from the store and products pages?"
+msgstr "Hide the shopping cart icon from the store and products pages?"
+
+#: music-store.php:2076
+msgid "Pay what you want"
+msgstr "Pay what you want"
+
+#: music-store.php:2077
+msgid ""
+"The prices of products are hidden in the public webpage and in their places "
+"are displayed input boxes to let the buyers pay the amount they consider "
+"adequate. If the \"Pay what you want\" option is enabled then the exclusive "
+"prices are not taken into account. The amounts entered by the buyers are "
+"compared with the base price of the products and if the values are under the "
+"base prices then the Music Store displays the text entered in the \"price "
+"under minimum\" message."
+msgstr ""
+"The prices of products are hidden in the public webpage and in their places "
+"are displayed input boxes to let the buyers pay the amount they consider "
+"adequate. If the \"Pay what you want\" option is enabled then the exclusive "
+"prices are not taken into account. The amounts entered by the buyers are "
+"compared with the base price of the products and if the values are under the "
+"base prices then the Music Store displays the text entered in the \"price "
+"under minimum\" message."
+
+#: music-store.php:2077 music-store.php:2082 music-store.php:2087
+msgid ""
+"The option \"Pay what you want\" is available only in the commercial version "
+"of plugin"
+msgstr ""
+"The option \"Pay what you want\" is available only in the commercial version "
+"of plugin"
+
+#: music-store.php:2081
+msgid "Label of price box"
+msgstr "Label of price box"
+
+#: music-store.php:2082
+msgid ""
+"Text to display above the price box if the \"Pay what you want\" option is "
+"ticked."
+msgstr ""
+"Text to display above the price box if the \"Pay what you want\" option is "
+"ticked."
+
+#: music-store.php:2086
+msgid "Price under minimum message"
+msgstr "Price under minimum message"
+
+#: music-store.php:2087
+msgid ""
+"Text to display if the \"Pay what you want\" option is ticked, and the "
+"amount entered by the buyer is under the base price defined in the product."
+msgstr ""
+"Text to display if the \"Pay what you want\" option is ticked, and the "
+"amount entered by the buyer is under the base price defined in the product."
+
+#: music-store.php:2091
+#, fuzzy
+#| msgid "Download link"
+msgid "Disable download links"
+msgstr "Download link"
+
+#: music-store.php:2092
+msgid "It hides the download links from the downloads page."
+msgstr ""
+
+#: music-store.php:2096
+msgid "Download link valid for"
+msgstr "Download link valid for"
+
+#: music-store.php:2097
+msgid "day(s)"
+msgstr "day(s)"
+
+#: music-store.php:2101
+msgid "Number of downloads allowed by purchase"
+msgstr "Number of downloads allowed by purchase"
+
+#: music-store.php:2106
+msgid "Increase the download page security"
+msgstr "Increase the download page security"
+
+#: music-store.php:2107
+msgid ""
+"The customers must enter the email address used in the product's purchasing "
+"to access to the download link. The Music Store verifies the customer's "
+"data, from the file link too."
+msgstr ""
+"The customers must enter the email address used in the product's purchasing "
+"to access to the download link. The Music Store verifies the customer's "
+"data, from the file link too."
+
+#: music-store.php:2110
+msgid "Pack all purchased audio files as a single ZIP file"
+msgstr "Pack all purchased audio files as a single ZIP file"
+
+#: music-store.php:2112
+msgid ""
+"Downloading all purchased products, packaged in a same zipped file, is only "
+"available in the commercial version of plugin"
+msgstr ""
+"Downloading all purchased products, packaged in a same zipped file, is only "
+"available in the commercial version of plugin"
+
+#: music-store.php:2115
+msgid ""
+"Your server can't create Zipped files dynamically. Please, contact to your "
+"hosting provider for enable ZipArchive in the PHP script"
+msgstr ""
+"Your server can't create Zipped files dynamically. Please, contact to your "
+"hosting provider for enable ZipArchive in the PHP script"
+
+#: music-store.php:2140
+msgid "Debugging Payment Process"
+msgstr ""
+
+#: music-store.php:2141
+msgid ""
+"(If the checkbox is ticked the plugin will create two new entries in the "
+"error  logs file on your server, with the texts <b>Music Store payment "
+"gateway GET parameters</b> and <b>Music Store payment gateway POST "
+"parameters</b>.  If after a purchase, none of these entries appear in the "
+"error logs file, the payment notification has not reached the plugin's code)"
+msgstr ""
+
+#: music-store.php:2152
+msgid "Restrict the access to registered users only"
+msgstr "Restrict the access to registered users only"
+
+#: music-store.php:2156
+msgid "Display the free download links only for registered users"
+msgstr "Display the free download links only for registered users"
+
+#: music-store.php:2158
+msgid ""
+"Include the \"Buy Now\" or \"Shopping Cart\" buttons only for registered "
+"users"
+msgstr ""
+"Include the \"Buy Now\" or \"Shopping Cart\" buttons only for registered "
+"users"
+
+#: music-store.php:2163
+msgid ""
+"You can insert the <b>\"Music Store Login Form\"</b> on the sidebar through "
+"the menu option: <i>Appearance > Widgets</i>"
+msgstr ""
+
+#: music-store.php:2173
+msgid "Licenses"
+msgstr "Licenses"
+
+#: music-store.php:2176
+msgid ""
+"Enter the URL to the webpage, or file, with the license for products "
+"downloaded for free."
+msgstr ""
+"Enter the URL to the webpage, or file, with the license for products "
+"downloaded for free."
+
+#: music-store.php:2178
+msgid ""
+"Enter the URL to the webpage, or file, with the license for regular "
+"purchases."
+msgstr ""
+"Enter the URL to the webpage, or file, with the license for regular "
+"purchases."
+
+#: music-store.php:2180
+msgid ""
+"Enter the URL to the webpage, or file, with the license for exclusive "
+"purchases."
+msgstr ""
+"Enter the URL to the webpage, or file, with the license for exclusive "
+"purchases."
+
+#: music-store.php:2182
+msgid ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin, similar to the license"
+msgstr ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin, similar to the license"
+
+#: music-store.php:2185
+msgid "Note:"
+msgstr "Note:"
+
+#: music-store.php:2188
+msgid ""
+"The links to the corresponding licenses are sent to the buyers in the "
+"notification emails, and in the case of license for free downloads, are "
+"inserted beside the download links."
+msgstr ""
+"The links to the corresponding licenses are sent to the buyers in the "
+"notification emails, and in the case of license for free downloads, are "
+"inserted beside the download links."
+
+#: music-store.php:2202
+msgid "Discount Settings"
+msgstr "Discount Settings"
+
+#: music-store.php:2208
+msgid "Display discount promotions in the music store page"
+msgstr "Display discount promotions in the music store page"
+
+#: music-store.php:2213
+msgid "Percent of discount"
+msgstr "Percent of discount"
+
+#: music-store.php:2214
+msgid "In Sales over than ... "
+msgstr "In Sales over than ... "
+
+#: music-store.php:2225
+msgid "Percent of discount (*)"
+msgstr "Percent of discount (*)"
+
+#: music-store.php:2229
+msgid "Valid for sales over than (*)"
+msgstr "Valid for sales over than (*)"
+
+#: music-store.php:2256
+msgid "Notification Settings"
+msgstr "Notification Settings"
+
+#: music-store.php:2263
+msgid "Notification \"from\" email"
+msgstr "Notification \"from\" email"
+
+#: music-store.php:2265
+msgid "EX"
+msgstr ""
+
+#: music-store.php:2270
+msgid "Send notification to email"
+msgstr "Send notification to email"
+
+#: music-store.php:2275
+msgid "Email subject confirmation to user"
+msgstr "Email subject confirmation to user"
+
+#: music-store.php:2280
+msgid "Email confirmation to user"
+msgstr "Email confirmation to user"
+
+#: music-store.php:2285
+msgid "Email subject notification to admin"
+msgstr "Email subject notification to admin"
+
+#: music-store.php:2290
+msgid "Email notification to admin"
+msgstr "Email notification to admin"
+
+#: music-store.php:2302
+msgid "Troubleshoot Area"
+msgstr ""
+
+#: music-store.php:2309
+#, fuzzy
+#| msgid "The date is wrong"
+msgid "The downloaded file is broken"
+msgstr "The date is wrong"
+
+#: music-store.php:2316
+msgid "The download link is invalid or displays a timer"
+msgstr ""
+
+#: music-store.php:2319
+msgid "send me an email with the broken link to"
+msgstr ""
+
+#: music-store.php:2332
+msgid "Update Settings"
+msgstr "Update Settings"
+
+#: music-store.php:2381
+msgid "New entry added to the sales report"
+msgstr "New entry added to the sales report"
+
+#: music-store.php:2383
+msgid "The new entry couldn't be inserted in the sales reports"
+msgstr "The new entry couldn't be inserted in the sales reports"
+
+#: music-store.php:2386
+msgid "The amount and currency are required"
+msgstr "The amount and currency are required"
+
+#: music-store.php:2389
+msgid "The date is wrong"
+msgstr "The date is wrong"
+
+#: music-store.php:2392
+msgid "The product is required"
+msgstr "The product is required"
+
+#: music-store.php:2395
+msgid "The buyer is required"
+msgstr "The buyer is required"
+
+#: music-store.php:2419
+#, fuzzy
+#| msgid "Products per page"
+msgid "Products from "
+msgstr "Products per page"
+
+#: music-store.php:2426
+#, fuzzy
+#| msgid "Email address"
+msgid "Email sent"
+msgstr "Email address"
+
+#: music-store.php:2443 music-store.php:2659
+msgid "Payment data"
+msgstr "Payment data"
+
+#: music-store.php:2515 music-store.php:2595
+msgid "Buyer"
+msgstr "Buyer"
+
+#: music-store.php:2515 music-store.php:2649
+msgid "Amount"
+msgstr "Amount"
+
+#: music-store.php:2515
+msgid "Download link"
+msgstr "Download link"
+
+#: music-store.php:2563
+msgid "January"
+msgstr "January"
+
+#: music-store.php:2564
+msgid "February"
+msgstr "February"
+
+#: music-store.php:2565
+msgid "March"
+msgstr "March"
+
+#: music-store.php:2566
+msgid "April"
+msgstr "April"
+
+#: music-store.php:2567
+msgid "May"
+msgstr "May"
+
+#: music-store.php:2568
+msgid "June"
+msgstr "June"
+
+#: music-store.php:2569
+msgid "July"
+msgstr "July"
+
+#: music-store.php:2570
+msgid "August"
+msgstr "August"
+
+#: music-store.php:2571
+msgid "September"
+msgstr "September"
+
+#: music-store.php:2572
+msgid "October"
+msgstr "October"
+
+#: music-store.php:2573
+msgid "November"
+msgstr "November"
+
+#: music-store.php:2574
+msgid "December"
+msgstr "December"
+
+#: music-store.php:2581
+msgid "Manual Entry"
+msgstr "Manual Entry"
+
+#: music-store.php:2599
+msgid "Send the download link to the buyer"
+msgstr ""
+
+#: music-store.php:2608
+msgid "Select a product"
+msgstr "Select a product"
+
+#: music-store.php:2654
+msgid "for example: USD"
+msgstr "for example: USD"
+
+#: music-store.php:2666
+msgid "Add Entry"
+msgstr "Add Entry"
+
+#: music-store.php:2673
+msgid "Filter the sales reports"
+msgstr "Filter the sales reports"
+
+#: music-store.php:2676
+msgid "Filter by date"
+msgstr "Filter by date"
+
+#: music-store.php:2677
+msgid "Buyer: "
+msgstr "Buyer: "
+
+#: music-store.php:2678
+msgid "From: "
+msgstr "From: "
+
+#: music-store.php:2695
+msgid "To: "
+msgstr "To: "
+
+#: music-store.php:2711
+msgid "Search"
+msgstr "Search"
+
+#: music-store.php:2715
+msgid "Grouping the sales"
+msgstr "Grouping the sales"
+
+#: music-store.php:2716
+msgid "By: "
+msgstr "By: "
+
+#: music-store.php:2726
+msgid "Display"
+msgstr "Display"
+
+#: music-store.php:2727
+msgid "Sales"
+msgstr "Sales"
+
+#: music-store.php:2728
+msgid "Amount of sales"
+msgstr "Amount of sales"
+
+#: music-store.php:2729
+msgid "Daily average"
+msgstr "Daily average"
+
+#: music-store.php:2736
+msgid "Store sales report"
+msgstr "Store sales report"
+
+#: music-store.php:2745
+msgid "Sales by country"
+msgstr "Sales by country"
+
+#: music-store.php:2746
+msgid "Sales by currency"
+msgstr "Sales by currency"
+
+#: music-store.php:2747
+msgid "Sales by product"
+msgstr "Sales by product"
+
+#: music-store.php:2748
+msgid "Downloads free products"
+msgstr "Downloads free products"
+
+#: music-store.php:2762
+msgid "List all products"
+msgstr "List all products"
+
+#: music-store.php:2765
+msgid "List only the purchased products"
+msgstr "List only the purchased products"
+
+#: music-store.php:2768
+msgid "List only the products downloaded for free"
+msgstr "List only the products downloaded for free"
+
+#: music-store.php:2888
+msgid "There are not sales registered with those filter options"
+msgstr "There are not sales registered with those filter options"
+
+#: music-store.php:2931
+msgid "Replace"
+msgstr "Replace"
+
+#: music-store.php:3027
+#, fuzzy
+#| msgid "Select a product"
+msgid "Insert a Products List"
+msgstr "Select a product"
+
+#: music-store.php:3060
+#, fuzzy
+#| msgid "Filter the sales reports"
+msgid "Insert the sales counter"
+msgstr "Filter the sales reports"
+
+#: music-store.php:3091 music-store.php:4048
+msgid "Insert Music Store"
+msgstr "Insert Music Store"
+
+#: music-store.php:3093
+msgid "Filter results by products type:"
+msgstr "Filter results by products type:"
+
+#: music-store.php:3093
+msgid "All types"
+msgstr "All types"
+
+#: music-store.php:3093
+msgid ""
+"Filter by product types is only available for commercial version of plugin"
+msgstr ""
+"Filter by product types is only available for commercial version of plugin"
+
+#: music-store.php:3093
+msgid "Columns:"
+msgstr "Columns:"
+
+#: music-store.php:3095
+msgid "Filter results by genre:"
+msgstr "Filter results by genre:"
+
+#: music-store.php:3095 music-store.php:3678
+msgid "All genres"
+msgstr "All genres"
+
+#: music-store.php:3101
+msgid "-or- filter results by artist:"
+msgstr "-or- filter results by artist:"
+
+#: music-store.php:3101 music-store.php:3715
+msgid "All artists"
+msgstr "All artists"
+
+#: music-store.php:3106
+msgid "-or- filter results by album:"
+msgstr "-or- filter results by album:"
+
+#: music-store.php:3106 music-store.php:3699
+msgid "All albums"
+msgstr "All albums"
+
+#: music-store.php:3116
+#, fuzzy
+#| msgid "Select a product"
+msgid "Insert a Product"
+msgstr "Select a product"
+
+#: music-store.php:3117
+#, fuzzy
+#| msgid "The product is required"
+msgid "Enter the Song ID:"
+msgstr "The product is required"
+
+#: music-store.php:3150
+msgid "Payment method"
+msgstr "Payment method"
+
+#: music-store.php:3604
+msgid "of"
+msgstr "of"
+
+#: music-store.php:3674
+msgid "Filter by: "
+msgstr "Filter by: "
+
+#: music-store.php:3677
+#, fuzzy
+#| msgid "Filter results by genre:"
+msgid "Filter by genre"
+msgstr "Filter results by genre:"
+
+#: music-store.php:3698
+#, fuzzy
+#| msgid "Filter by: "
+msgid "Filter by album"
+msgstr "Filter by: "
+
+#: music-store.php:3714
+#, fuzzy
+#| msgid "Filter by date"
+msgid "Filter by artist"
+msgstr "Filter by date"
+
+#: music-store.php:3732
+msgid "Order by: "
+msgstr "Order by: "
+
+#: music-store.php:3733
+#, fuzzy
+#| msgid "Order by: "
+msgid "Order by"
+msgstr "Order by: "
+
+#: music-store.php:3734
+msgid "Newest"
+msgstr ""
+
+#: music-store.php:3735
+msgid "Title"
+msgstr "Title"
+
+#: music-store.php:3737
+msgid "Price: Low to High"
+msgstr ""
+
+#: music-store.php:3738
+msgid "Price: High to Low"
+msgstr ""
+
+#: music-store.php:3786
+#, fuzzy
+#| msgid "The list of purchased products is empty"
+msgid "purchased products list"
+msgstr "The list of purchased products is empty"
+
+#: music-store.php:3857
+#, fuzzy
+#| msgid "Purchases"
+msgid "Purchase date"
+msgstr "Purchases"
+
+#: music-store.php:3860
+msgid "Paid"
+msgstr ""
+
+#: music-store.php:3863
+#, fuzzy
+#| msgid "Duration"
+msgid "Expired link"
+msgstr "Duration"
+
+#: music-store.php:3863
+msgid "Click Here"
+msgstr ""
+
+#: music-store.php:3870
+#, fuzzy
+#| msgid "The list of purchased products is empty"
+msgid "The list of purchased products is empty."
+msgstr "The list of purchased products is empty"
+
+#: music-store.php:4050
+#, fuzzy
+#| msgid "Select a product"
+msgid "Insert a product"
+msgstr "Select a product"
+
+#: music-store.php:4053
+#, fuzzy
+#| msgid "Select a product"
+msgid "Insert a products list"
+msgstr "Select a product"
+
+#: music-store.php:4055
+#, fuzzy
+#| msgid "Select a product"
+msgid "Insert a sales counter"
+msgstr "Select a product"
+
+#, fuzzy
+#~| msgid "Email address"
+#~ msgid "Email"
+#~ msgstr "Email address"
+
+#, fuzzy
+#~| msgid "Duration"
+#~ msgid "Expiration"
+#~ msgstr "Duration"
+
+#~ msgid "This is where you can add new song to your music store."
+#~ msgstr "This is where you can add new song to your music store."
+
+#, fuzzy
+#~| msgid "Purchases"
+#~ msgid "Purchased"
+#~ msgstr "Purchases"
+
+#~ msgid ""
+#~ "The free version of the plugin includes only the classic design for the "
+#~ "music player"
+#~ msgstr ""
+#~ "The free version of the plugin includes only the classic design for the "
+#~ "music player"
+
+#, fuzzy
+#~| msgid "Publication Year:"
+#~ msgid "Application Secret"
+#~ msgstr "Publication Year:"
+
+#, fuzzy
+#~| msgid "Product"
+#~ msgid "Product Type"
+#~ msgstr "Product"
+
+#, fuzzy
+#~| msgid "The purchase ID is incorrect, please, try again in 3 minutes."
+#~ msgid ""
+#~ "The purchase ID has not been registered yet, or the purchase ID is "
+#~ "incorrect. Please, try again in 3 minutes."
+#~ msgstr "The purchase ID is incorrect, please, try again in 3 minutes."
+
+#, fuzzy
+#~| msgid "Music Store Collections"
+#~ msgid "Collection Templates"
+#~ msgstr "Music Store Collections"
+
+#~ msgid "PayPal data"
+#~ msgstr "PayPal data"
+
+#~ msgid "Please, try again in 3 minutes."
+#~ msgstr "Please, try again in 3 minutes."
